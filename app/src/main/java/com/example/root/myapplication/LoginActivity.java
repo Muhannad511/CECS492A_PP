@@ -1,5 +1,5 @@
 package com.example.root.myapplication;
-
+   //I delete the variable
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
 import android.annotation.TargetApi;
@@ -32,7 +32,27 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
 
+
 import static android.Manifest.permission.READ_CONTACTS;
+/*
+ABDULLLAHDJSHDKJHSJKDHKJHDAKLJDHKJSHDKJHSDKJHSJKDHSKJHDJKSHDJKSHDKJSHDKJSHDKJSHDKJSHDJKSHDKJHSKJDHJKSDHJKSHDJKSHDKJSHDKJ
+dsaklhdjkahdjkashdkjhFDJKHFDSJKFHJKDSHFLAKJFDHKFHKJSDHALKDSHFKJAHDSJKFHKJAHDJFEEHWGJSDNVKFADSFHKJDHFKADJSHFJKDSHAFLKJDHF
+DSFJHKLSDHAFKJDSHFJKHFKJHAKDSFJHAKJFHLAKHFJKAHFJKSDHFALKSJDHFALKJSHFDLKAHDKJSHFKAJSDHFLKADSJHFKJDSHFDKSJLHFLKASDJHFLAKSJ
+DSFHJDKSHFJKLASDHFKJDSHFJKDSHFJKAHLKFJHDASLFHKAJDHFKJDSHFLADKJFHALKDJSHFLKSJHDFLKDSJHFLDSKJHFLSKJAHFLASDKJFHKLAJSDHFKJDSJ
+FDKSJHFAKJsdfhadsjkf fdsahfjkdsafbd fdsahfajksdhfjkhdskjfjkdashfljhdsfljkhdajskfdjskhfjkldshfjkdshfkjdshflkadhsfjkhalkhdj
+dsklfhajkdjhfjksdhfjkdshaJKSDHFKALJSDHKJFHKJLAHDFKHDKJSHFKDJSHFJKDHOIJGANJOSVJABEWJNOVAJBEWJFAFIEIWOFJJAGEUFOIWHEFEKWFEO
+SDKJFHJKWAEHFIJFHDSJKHFAKJHKJFHDLKSAFHKDSJHFKJDSHFKJAHKJDSHKALJHFKJSDSHFKAJDSHFKJDLSHFKJALHJKDSHFKAHDSFLKDHSAKFHJDSDSKJLJHFAJK
+SDLKFJJKLAHKJLDSHLFJKLHSDAKLFHJDSKJFHKJDSHFKJDSH
+ */
+
+//rohit testasdfk
+//ROHIT - MY BRANCH PLEASE WORKa
+//Updating the Project
+
+//Imanuel was here
+
+
+//Imanuel was here
 
 /**
  * A login screen that offers login via email/password.
@@ -43,6 +63,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
      * Id to identity READ_CONTACTS permission request.
      */
     private static final int REQUEST_READ_CONTACTS = 0;
+
 
     /**
      * A dummy authentication store containing known user names and passwords.
