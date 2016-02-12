@@ -47,17 +47,11 @@ SDLKFJJKLAHKJLDSHLFJKLHSDAKLFHJDSKJFHKJDSHFKJDSH
 
 //rohit testasdfka
 //Updating the Project
-//sdffdsfds
+
+//Imanuel was herekjdf
+
+
 //Imanuel was here
-//sadfsadffds
-
-
-//Rohit commit testasdfsdljsdfjsdfj
-
-/////ABDULLAH CHECK MY BRANCH
-
-//another test.jjsfodjsadfoiidsffdsjsadfodsssssssssssssssssssssssssssssssjjjoijfeojasofjsoafjsoadass
-
 
 /**
  * A login screen that offers login via email/password.
