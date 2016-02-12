@@ -58,10 +58,6 @@ SDLKFJJKLAHKJLDSHLFJKLHSDAKLFHJDSKJFHKJDSHFKJDSH
 
 //another test.jjsfodjsadfoiidsffdsjsadfodsssssssssssssssssssssssssssssssjjjoijfeojasofjsoafjsoadass
 
-//Imanuel was here
-//d
-
-
 
 /**
  * A login screen that offers login via email/password.
